@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ridhwan R
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning }{ello \/\/orld
+- 🌱 I’m currently learning }{ello World
 - 📫 How to reach me pray to God
 
 <!---
